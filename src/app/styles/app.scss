@@ -16,3 +16,22 @@
   border: 1px solid #EBE3D6;
   border-radius: 4px;
 }
+
+
+.footer {
+  margin: 80px auto 80px auto;
+  background-color: #4c4c4c;
+  color: #ffffff;
+  text-align: left;
+  .left {
+    display: inline-block;
+    margin-right: 5%;
+  }
+  .right {
+    text-align: right;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 40px;
+    width: 300px;
+  }
+}
