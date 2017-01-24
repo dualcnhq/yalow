@@ -1,0 +1,9 @@
+@import "utils/all";
+@import "base/all";
+
+.app {
+  width: 100%;
+  margin: 0 auto;
+}
+
+@import "app/all";
